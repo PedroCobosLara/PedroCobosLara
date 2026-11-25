@@ -26,7 +26,7 @@ Abierto a nuevas oportunidades como desarrollador backend, frontend o full stack
 
 - **Backend:** lógica de negocio, bases de datos y APIs.
 - **Frontend:** interfaces claras, responsive y accesibles.
-- Aprender a unir ambas partes en aplicaciones completas.
+- Aprender a unir ambas partes en aplicaciones completas y nuevas tecnologías
 
 ## 🚀 Proyectos
 
