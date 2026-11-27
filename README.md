@@ -20,7 +20,7 @@ Desarrollador de aplicaciones web con base en Málaga, formado en **Desarrollo d
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP, Java
-- **Bases de datos:** SQL
+- **Bases de datos:** PL/SQL
 - **Herramientas:** Git, GitHub, Shopify
 
 ---
@@ -47,7 +47,7 @@ Tres herramientas web que he creado para **Nocturne Souls**, mi marca de ropa. C
     <td width="33%" valign="top">
       <h3><a href="https://github.com/PedroCobosLara/nocturne-orders">📦 Nocturne Orders</a></h3>
       <p>Panel web con login para gestionar pedidos: importación desde CSV, estados, filtros y estadísticas de ventas.</p>
-      <p><code>PHP</code> <code>SQL</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p> <code>PL/SQL</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/PedroCobosLara/nocturne-insights">📊 Nocturne Insights</a></h3>
